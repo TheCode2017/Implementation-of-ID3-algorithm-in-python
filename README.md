@@ -1,8 +1,7 @@
 # Implementation-of-ID3-algorithm-in-python
 
-following programming languages - Java, Python, C++, Ruby. You cannot use any package or
-library for this assignment.
-To simplify things, you can assume that the data used to test your implementation will contain
+In this program,I am implementing the ID3 decision tree learning algorithm using the python programming language.
+To simplify things, y can assume that the data used to test your implementation will contain
 only Boolean (0 or 1) attributes and Boolean (0 or 1) class values. You can assume that there
 will be no missing data or attributes. You can also assume that the first row of the dataset will
 contain column names and each non-blank line after that will contain a new data instance.
