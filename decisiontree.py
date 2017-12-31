@@ -1,7 +1,4 @@
-"""
-    Implementation of decision tree using ID3 algorithm
-    Author:Varun Kumar Reddy Bankiti
-"""
+
 import math, sys
 from collections import Counter, deque
 from random import randint
